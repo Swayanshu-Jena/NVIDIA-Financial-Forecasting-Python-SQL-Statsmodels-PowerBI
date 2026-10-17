@@ -8,6 +8,10 @@
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-3157A4?style=for-the-badge)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge)
 
+<p align="center">
+  <img src="NVIDIA_logo.png" alt="NVIDIA Logo">
+</p>
+
 > **Architecting an end-to-end Data Analytics pipeline that transforms raw market data into actionable business intelligence. This project evaluates NVIDIA's financial health, benchmarks its market outperformance, forecasts short-term price momentum using ARIMA, and delivers a sleek, dark-mode executive business intelligence terminal.**
 
 ---
