@@ -1,0 +1,9 @@
+yfinance
+pandas
+numpy
+sqlalchemy
+pymysql
+matplotlib
+seaborn
+statsmodels
+jupyter
