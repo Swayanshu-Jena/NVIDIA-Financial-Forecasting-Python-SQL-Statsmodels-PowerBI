@@ -236,4 +236,4 @@ This project successfully established an end-to-end financial analytics and mach
 
 💻 **GitHub:** [github.com/Swayanshu-Jena](https://github.com/Swayanshu-Jena)
 
-*❤️ Thank you for viewing my project! I am actively looking for Data Science and Data Analyst opportunities and welcome any connections, feedback, or collaboration.*
+*❤️ Thank you for viewing my project! I am actively looking for Data Scientist and Data Analyst opportunities and I welcome any connections, feedback, or collaboration."
